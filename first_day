@@ -1,0 +1,20 @@
+# Python code preparation
+print("Hello, world!")
+# when we  want to use backslash and double quote in python
+print("My favorite quote is \"To be or not to be.\"")
+#Code errors
+# There are different types of error like run time logical and syntax error.
+#Comments  = ignored by the interpreter
+print("I belong here.")
+#print("Why am I here?")
+#print("Get me out of here!")
+print("I also belong here.")
+print("Me too!")
+# Variable declaration
+# When we want to use anything again and  again we will create a variable.
+# Variables are containers that hold a value.
+x = 21
+y = 56
+z = x + y 
+print(z)
+
